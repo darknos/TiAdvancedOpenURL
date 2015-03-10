@@ -1,0 +1,18 @@
+#
+# this is your module manifest and used by Titanium
+# during compilation, packaging, distribution, etc.
+#
+version: 1.0.0
+apiversion: 2
+architectures: armv7 arm64 i386 x86_64
+description: TiAdvancedOpenURL
+author: Your Name
+license: Specify your license
+copyright: Copyright (c) 2015 by Your Company
+
+# these should not be edited
+name: TiAdvancedOpenURL
+moduleid: it.advanced.open.url
+guid: bbb68214-dfb1-430e-a4c9-a5aa8fb46292
+platform: iphone
+minsdk: 3.5.0.GA
